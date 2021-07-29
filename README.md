@@ -1,6 +1,6 @@
 ### Hi, I'm Alice!
 
-I'm a developer and a graduate student studying Computer Engineering, interested in software design & development and its applications to bioinformatics, finance, and other fields.
+I'm a developer and a graduate student studying Computer Engineering, interested in software design & development and its applications to social network, bioinformatics, finance, and other fields.
 
 I am excited for learning new things and motivated to explore new techology at every moment. Currently, I focus on software engineering and big data.
 
